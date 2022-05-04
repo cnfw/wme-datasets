@@ -50,7 +50,7 @@ RUN node_modules/.bin/gulp css && node_modules/.bin/gulp icons
 
 
 # Build Jekyll Site
-FROM ruby as jekyll
+FROM ruby:2.3.0 as jekyll
 
 WORKDIR /workdir
 
