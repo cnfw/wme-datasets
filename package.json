@@ -10,7 +10,7 @@
   "license": "MIT",
   "homepage": "https://waze.cw1998.uk",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2",
     "gulp-util": "^3.0.8"
